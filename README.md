@@ -1,5 +1,5 @@
-<h1 align="center">Agregar Animales 🐾</h1>
-<p>Este proyecto es una aplicación sencilla diseñada para agregar animales a una base de datos, desarrollada para aprender y fortalecer habilidades en Express, MongoDB y Node.js, utilizando JavaScript como lenguaje principal.</p>
+<h1 align="center">Agregar Usuarios 👥</h1>
+<p>Este proyecto es una aplicación sencilla diseñada para agregar usuarios a una base de datos, desarrollada para aprender y fortalecer habilidades en Express, MongoDB y Node.js, utilizando JavaScript como lenguaje principal.</p>
 <hr>
 <h1 align="center">Tecnologías Utilizadas</h1>
 <div align="center">
@@ -19,10 +19,10 @@
 <hr>
 <h1 align="center">Características Principales</h1>
 <ul>
-  <li>Permite agregar información sobre animales, incluyendo:</li>
+  <li>Permite agregar información sobre usuarios, incluyendo:</li>
   <ul>
     <li>Nombre</li>
-    <li>Tipo</li>
+    <li>Apellidos</li>
   </ul>
   <li>Conexión con una base de datos MongoDB para almacenar y gestionar los datos.</li>
   <li>Estructura modular del código, separando las rutas, controladores y configuraciones.</li>
@@ -43,8 +43,8 @@
 1. Clona este reposotorio en tu máquina local:
 
    ```sh
-   git clone https://github.com/JordanMedinaOrtiz/AgregarAnimales.git
-   cd AgregarAnimales
+   git clone https://github.com/JordanMedinaOrtiz/AgregarUsuarios.git
+   cd AgregarUsuarios
    ```
 
 2. Instala las dependencias:
@@ -74,4 +74,3 @@
     </ul>
     
 <p>Este proyecto fue un paso importante para afianzar habilidades en desarrollo backend y en el manejo de bases de datos NoSQL. Aunque es sencillo, su implementación representa un pilar fundamental para proyectos más complejos en el futuro.</p>
-<p>Puedes ver la demostración del proyecto <a href="https://jordanmedinaortiz.github.io/AgregarAnimales/">aquí</a></p>
