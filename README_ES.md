@@ -83,3 +83,4 @@
 <hr>
 
 <p>Este proyecto fue un paso importante para afianzar habilidades en desarrollo backend y en el manejo de bases de datos NoSQL. Aunque su implementación es sencilla, representa un pilar fundamental para proyectos más complejos en el futuro.</p>
+<img src="add-users-nodejs.png" alt="Add Users App" title="Add Users App"/>
