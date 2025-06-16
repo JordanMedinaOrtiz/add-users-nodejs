@@ -52,8 +52,8 @@
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/JordanMedinaOrtiz/AgregarUsuarios.git
-   cd AgregarUsuarios
+   git clone https://github.com/JordanMedinaOrtiz/add-users-nodejs.git
+   cd add-users-nodejs
    ```
 
 2. Install dependencies:
