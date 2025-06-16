@@ -83,3 +83,4 @@
 <hr>
 
 <p>This project provided hands-on experience with backend development and working with NoSQL databases. Although simple, it lays the groundwork for more advanced applications in the future.</p>
+<img src="add-users-nodejs.png" alt="Add Users App" title="Add Users App"/>
